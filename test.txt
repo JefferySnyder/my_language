@@ -1,0 +1,9 @@
+let x = 45 / 2;
+
+fn square(y) {
+    y * y
+}
+
+print(x)
+
+print(square(2))
